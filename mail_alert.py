@@ -74,7 +74,7 @@ messages = search_emails(service, query)
 query2 = 'TEST in:inbox'
 messages2 = search_emails(service, query2)
 
-query3 = 'GitHub in:inbox'
+query3 = 'GitHub in:inbox' #Just change the Github or TEST word for trigger your mails
 messages3 = search_emails(service, query3)
 
 
